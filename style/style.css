@@ -1,0 +1,17 @@
+body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
+margin: 0;padding:0;
+} 
+.mynav{
+background-color: black!important;
+color: white!important;;
+}
+
+.mynav a{
+color: white!important;
+font-size: 20px;
+padding-right: 30px!important;
+}
+.navbar-toggler{
+    background-color:#009900!important;
+}
+
